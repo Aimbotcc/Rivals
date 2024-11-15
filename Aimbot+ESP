@@ -148,5 +148,5 @@ RunService.Heartbeat:Connect(function()
         end
     end
 
-    print("executed")
+    
 end)
